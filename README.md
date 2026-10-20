@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum Nexus** · Team ID `VTU-QFF-HC-0112` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum Nexus)
+[⬆ Back to Top](#quantum-nexus)
 
 </div>
